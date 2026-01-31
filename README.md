@@ -9,5 +9,5 @@
 ---
 
 
-You're visiting my personal GitHub space containing an unstructured collection of experiments and public assets. Feel free to browse around.   
+🌍 You're visiting my personal GitHub space containing an unstructured collection of experiments and public assets. Feel free to browse around.   
 📫 I’m always looking to collaborate, so feel free to reach out.
